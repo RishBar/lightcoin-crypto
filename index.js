@@ -27,3 +27,4 @@ t2.commit();
 console.log('Transaction 2:', t2);
 
 console.log('Balance:', balance);
+let a = 1;
